@@ -1,0 +1,54 @@
+body{
+    padding: 10px;
+    background-color: lightblue;
+
+}
+
+.cards {
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    width: 30vw;
+    height: 40vh;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.4);
+    transition: 0.5s;
+    border-radius: 10px; /* 5px rounded corners */
+    flex: 0 0 auto;
+    display: inline-block;
+    flex-direction: column;
+  }
+
+.cards:hover{
+  box-shadow: 0 5px 10px 0 rgba(237, 155, 155, 0.7);
+  transition: 0.5s;
+}
+
+ img {
+    border-radius: 10px 10px 0 0;
+    width: 30vw;
+    height: 30vh;
+    object-fit: fill ;
+    
+  }
+.title > h3{
+    margin-top: 0px;
+    padding-top: 0px;
+   text-align: center;
+
+}
+p{
+    color: darkblue;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+/*
+.input{
+  margin:0px 0px 0px 10px;
+  border-radius: 5px;
+  border-color: #8bf68b9a;
+  background-color: rgb(182, 242, 233,0.4);
+  height: 30px;
+}*/
+

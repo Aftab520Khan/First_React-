@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(37, 36, 36);
+}
+
+.Image > img {
+    height: 50%;
+    width: 500px;
+    object-fit: fill;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#name {
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    letter-spacing: 3px;
+    
+}
+
+h3{
+    font-size: 30px;
+    color: rgb(184, 185, 185);
+}
+
+p{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    height: 50px;
+    width: 50px;
+    
+}

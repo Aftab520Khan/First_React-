@@ -1,0 +1,25 @@
+body{
+  margin: 0%;
+  padding: 0%;
+}
+.main{
+    margin: 0%;
+    padding: 0% ;
+   
+
+  }
+  ul{
+    background-color: black;
+    margin: 0%;
+    padding: 10px;
+    text-align: right;
+    text-decoration: none;
+    color: aliceblue;
+  }
+
+ li{
+    display: inline;
+    font-size: 33px;
+    padding: 65px;
+ 
+  }
