@@ -1,0 +1,8 @@
+const options = {
+  method: 'GET',
+  url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPart/hand',
+  headers: {
+    'X-RapidAPI-Key': '94bf2e3647msh2a731e9d244021dp1c5368jsnd521938f9955',
+    'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+  }
+};
